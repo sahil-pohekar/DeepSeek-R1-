@@ -24,7 +24,7 @@ pg = st.navigation(
 )
 
 
-st.logo(r"E:\Streamlit\assets\logo.png")
+st.logo(r"assets\logo.png")
 
 
 pg.run()
