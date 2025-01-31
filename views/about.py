@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image(r"E:\Streamlit\assets\logo.png")
+st.image(r"assets\logo.png")
 
 @st.dialog("Contact Me")
 def show_contact_form():
